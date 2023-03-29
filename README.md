@@ -1,6 +1,6 @@
 # caMicroscope - Multi-channel Imaging Support - Challenge
 
-![Screenshot (214)](https://user-images.githubusercontent.com/102804548/228495488-5b7763d0-6fe6-4b45-b8d2-166f5eb1ba81.png)
+![Screenshot (215)](https://user-images.githubusercontent.com/102804548/228497866-6b7bf274-2f29-4b77-8ada-316909c1767d.png)
 
 ## create_image function
 
